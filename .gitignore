@@ -10,3 +10,7 @@ bin/
 .classpath
 .project
 .settings
+
+#IntelliJ
+*.iml
+.idea/
