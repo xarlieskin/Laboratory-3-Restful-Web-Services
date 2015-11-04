@@ -11,7 +11,7 @@ Javier Beltran Jorba | 532581
 Marcos Canales Mayo | 467716
 Jorge Cáncer Gil | 646122 
 Iñigo Alonso Ruiz | 665959 
-Ismael Rodríguez Hernández | 587429 | [repo](https://github.com/ismaro3/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/ismaro3/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/ismaro3/Laboratory-3-Restful-Web-Services) 
+Ismael Rodríguez Hernández | 587429 | [repo](https://github.com/ismaro3/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/ismaro3/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/ismaro3/Laboratory-3-Restful-Web-Services) | [Adapt to JSON API](http://jsonapi.org/format/)
 Jorge Martinez Lascorz | 571735
 David Nicuesa Aranda | 653224 
 Eduardo Ibanez | 528074 
