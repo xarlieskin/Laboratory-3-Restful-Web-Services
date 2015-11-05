@@ -23,7 +23,7 @@ Adrian Susinos Moreno | 650220
 Santiago Gil Begué | 683482 
 Carlos Escuín Blasco | 545003 
 Alberto Revel | 628704 
-Raul Piracés Alastuey | 490790 
+Raul Piracés Alastuey | 490790 | [repo](https://github.com/piraces/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/piraces/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/piraces/Laboratory-3-Restful-Web-Services)
 Adrian Moreno Jimeno | 631537 
 Alberto Sabater Bailén | 546297 
 Agustin Navarro Torres | 587570 
