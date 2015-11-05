@@ -7,8 +7,7 @@ User name | NIA |Repository|Travis-CI|Proposal|Score
 UNIZAR-30246-WebEngineering |30246 | [repo](https://github.com/UNIZAR-30246-WebEngineering/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/UNIZAR-30246-WebEngineering/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/UNIZAR-30246-WebEngineering/Laboratory-3-Restful-Web-Services)
 AlejandroDiesteCortes | 541892
 Cristian Román |646564
-Javier Beltran Jorba | 532581 |
-[repo](https://github.com/MrJavo94/Laboratory-3-Restful-Web-Services) |
+Javier Beltran Jorba | 532581 | [repo](https://github.com/MrJavo94/Laboratory-3-Restful-Web-Services) |
 [![Build Status](https://travis-ci.org/MrJavo94/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/MrJavo94/Laboratory-3-Restful-Web-Services)
 Marcos Canales Mayo | 467716
 Jorge Cáncer Gil | 646122
