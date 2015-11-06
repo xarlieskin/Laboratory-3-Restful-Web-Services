@@ -16,7 +16,7 @@ Jorge Martinez Lascorz | 571735
 David Nicuesa Aranda | 653224 | [repo](https://github.com/Nicu1309/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/Nicu1309/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/Nicu1309/Laboratory-3-Restful-Web-Services) | [Adapting code with RAML](http://raml.org/)
 Eduardo Ibanez | 528074
 Sergio Soro Miranda | 671250
-Alberto Álvarez Aldea | 681687 | [repo](https://github.com/albert17/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/albert17/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/albert17/Laboratory-3-Restful-Web-Services)
+Alberto Álvarez Aldea | 681687 | [repo](https://github.com/albert17/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/albert17/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/albert17/Laboratory-3-Restful-Web-Services) | [Adapting code with JSONdoc](http://jsondoc.org/)
 Oscar Clemente Pedrico | 530162
 Iñigo Gascón Royo | 685215
 Adrian Susinos Moreno | 650220
