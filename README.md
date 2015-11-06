@@ -11,14 +11,14 @@ Jorge Cáncer Gil | 646122
 Iñigo Alonso Ruiz | 665959 | [repo](https://github.com/Shathe/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/Shathe/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/Shathe/Laboratory-3-Restful-Web-Services)
 Ismael Rodríguez Hernández | 587429 | [repo](https://github.com/ismaro3/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/ismaro3/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/ismaro3/Laboratory-3-Restful-Web-Services) | [Adapt to JSON API](http://jsonapi.org/format/)
 Jorge Martinez Lascorz | 571735
-David Nicuesa Aranda | 653224
+David Nicuesa Aranda | 653224 | [repo](https://github.com/Nicu1309/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/Nicu1309/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/Nicu1309/Laboratory-3-Restful-Web-Services) | [Adapting code with RAML](http://http://raml.org/)
 Eduardo Ibanez | 528074
 Sergio Soro Miranda | 671250
 Alberto Álvarez Aldea | 681687
 Oscar Clemente Pedrico | 530162
 Iñigo Gascón Royo | 685215
 Adrian Susinos Moreno | 650220
-Santiago Gil Begué | 683482
+Santiago Gil Begué | 683482 | [Santi-7's repo](https://github.com/Santi-7/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/Santi-7/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/Santi-7/Laboratory-3-Restful-Web-Services)
 Carlos Escuín Blasco | 545003
 Alberto Revel | 628704
 Raul Piracés Alastuey | 490790 | [repo](https://github.com/piraces/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/piraces/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/piraces/Laboratory-3-Restful-Web-Services)
@@ -37,3 +37,4 @@ Daniel Forcén Esteban | 558471
 Ramón José Arellano Bitrián | 594040
 Daniel Uroz | 545338
 Jorge Berdún Udina | 591454
+Guillermo Pérez García | 610382 | [repo](https://github.com/guillepg/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/guillepg/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/guillepg/Laboratory-3-Restful-Web-Services)
