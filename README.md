@@ -9,7 +9,7 @@ AlejandroDiesteCortes | 541892
 Cristian Román |646564
 Javier Beltran Jorba | 532581 | [repo](https://github.com/MrJavo94/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/MrJavo94/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/MrJavo94/Laboratory-3-Restful-Web-Services)
 Marcos Canales Mayo | 467716
-Jorge Cáncer Gil | 646122 | [Nicolas Maduro](https://github.com/jorcox/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/jorcox/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/jorcox/Laboratory-3-Restful-Web-Services)
+Jorge Cáncer Gil | 646122 | [Nicolás Maduro](https://github.com/jorcox/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/jorcox/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/jorcox/Laboratory-3-Restful-Web-Services)
 Iñigo Alonso Ruiz | 665959 | [repo](https://github.com/Shathe/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/Shathe/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/Shathe/Laboratory-3-Restful-Web-Services)
 Ismael Rodríguez Hernández | 587429 | [repo](https://github.com/ismaro3/Laboratory-3-Restful-Web-Services) | [![Build Status](https://travis-ci.org/ismaro3/Laboratory-3-Restful-Web-Services.svg?branch=master)](https://travis-ci.org/ismaro3/Laboratory-3-Restful-Web-Services) | [Adapt to JSON API](http://jsonapi.org/format/)
 Jorge Martinez Lascorz | 571735
