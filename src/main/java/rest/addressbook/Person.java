@@ -63,4 +63,17 @@ public class Person {
 	public URI getHref() {
 		return href;
 	}
+
+	@Override
+	public boolean equals (Object o){
+		if(o instanceof Person){
+			Person p = (Person) o;
+			return this.id == p.getId() &&
+				((this.name != null && p.getName() != null && this.name.equals(p.getName())) || (this.name == null && p.getName() == null)) &&
+				((this.email != null && p.getEmail() != null && this.email.equals(p.getEmail())) || (this.email == null && p.getEmail() == null)) &&
+				((this.href != null && p.getHref() != null && this.href.equals(p.getHref())) || (this.href == null && p.getHref() == null)) &&
+				this.phoneList.equals(p.getPhoneList());
+		}
+		else return false;
+	}
 }
